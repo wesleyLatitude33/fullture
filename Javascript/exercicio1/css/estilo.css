@@ -1,0 +1,14 @@
+.container{
+    padding-top: 20px;
+}
+
+.row {
+    padding: 10px;
+}
+
+.alert-primary {
+    text-align: center;
+}
+#btnBusca{
+    margin-top: 30px;
+}
