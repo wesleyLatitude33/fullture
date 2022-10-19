@@ -1,0 +1,31 @@
+.container {
+    padding: 20px;
+}
+.row {
+    padding-bottom: 20px;
+}
+button {
+    width: 100%;
+}
+
+/*  tabela  */
+.PrincipalLine{
+    background-color: #21B00A; 
+    padding-bottom: 0;
+}
+.PrincipalLine .col {
+    border: solid #A9A9A9 1px;
+    padding-top: 5px;
+    height: 40px;
+}
+.line {
+    padding-bottom: 0;
+}
+.line .col {
+    border: solid #A9A9A9 1px;
+    padding-top: 5px;
+    height: 40px;
+}
+.inativo {
+    background-color: #CCD0CB;
+}
